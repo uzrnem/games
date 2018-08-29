@@ -9,8 +9,8 @@ This is fresh repo for my old code of [Snake Game][1]. This was developed by me 
 # Command to run
 
 ```sh
-$ javac snake.java
-$ java snake
+$ javac Snake.java
+$ java Snake
 ```
 
 # Below are the screenshots of the same.

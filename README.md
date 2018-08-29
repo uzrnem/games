@@ -6,20 +6,20 @@ This is fresh repo for my old code of [Snake Game][1].
 
 🐍 Snake game is written in pure Java code. Also using some ArrayList, Graphics and Container Classes.
 
-#Command to run
+# Command to run
 
 ```sh
 $ javac snake.java
 $ java snake
 ```
 
-#Below are the screenshots of the same.
+# Below are the screenshots of the same.
 
-[!(./playing.png)]
+![Playing Game](./playing.png)
 
-[!(./gameover.png)]
+![Game Over](./gameover.png)
 
-#Author
+# Author
 
 [Bhagyesh Sunil Patel][2] This was developed by me in Oct 15th, 2014
 

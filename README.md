@@ -1,6 +1,6 @@
 # Simple Snake Game in Java
 
-This is fresh repo for my old code of [Snake Game][1]. 
+This is fresh repo for my old code of [Snake Game][1]. This was developed by me in Oct 15th, 2014.
 
 # Specification
 
@@ -21,7 +21,7 @@ $ java snake
 
 # Author
 
-[Bhagyesh Sunil Patel][2] This was developed by me in Oct 15th, 2014
+[Bhagyesh Sunil Patel][2]
 
 
 [//]: # (These are reference links used in the body of this note)

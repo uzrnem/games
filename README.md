@@ -1,30 +1,13 @@
-# Simple Snake Game in Java
+# Simple Snake, Pushbox and Tetris Games in Java
 
-This is fresh repo for my old code of [Snake Game][1]. This was developed by me in Oct 15th, 2014.
+This is fresh repo for my old code. This was developed by me in 2014-2015.
 
 # Specification
 
-🐍 Snake game is written in pure Java code. Also using some ArrayList, Graphics and Container Classes.
-
-# Command to run
-
-```sh
-$ javac Snake.java
-$ java Snake
-```
-
-# Below are the screenshots of the same.
-
-![Playing Game](./playing.png)
-
-![Game Over](./gameover.png)
+This games are written in pure Java code. Also using some ArrayList, Graphics and Container Classes.
 
 # Author
 
-[Bhagyesh Sunil Patel][2]
+[Bhagyesh Sunil Patel][1]
 
-
-[//]: # (These are reference links used in the body of this note)
-
-[1]: https://github.com/uzrnem/SourceFiles/blob/master/Snake.java
-[2]: https://github.com/uzrnem
+[1]: https://github.com/uzrnem

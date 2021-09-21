@@ -81,9 +81,9 @@
 </head>
 <body>
 
-<div class="playingCards rotateHand" id="transaction-app">
+<div class="playingCards rotateHand px-2" id="transaction-app">
   <div class="row justify-content-md-center mt-1">
-    <div class="col-lg-3 col-md-3 col-sm-6 col-4" v-for ="n in [3, 0, 1]">
+    <div class="col-lg-3 col-md-3 col-sm-6 col-4 px-1" v-for ="n in [3, 0, 1]">
       <div v-if="players[n]" v-bind:class="[validCards(n) == totalCard(n) & isGameOver == false ? 'all-page-sure' : '']">
         <div class="card text-center" v-bind:class="[n == (index % 4) ? 'card-active' : '']">
           <div class="card-header d-flex" style="padding: .3rem 1rem 0.3rem 1rem; border-bottom: none;position:relative">
@@ -149,7 +149,7 @@
     </div>
   </div>
   <div class="row justify-content-md-center pt-4">
-    <div class="col-lg-6 col-md-6 col-sm-6">
+    <div class="col-lg-6 col-md-6 col-sm-6 px-3">
       <div v-if="players[playerId]"
         v-bind:class="[validCards(playerId) == totalCard(playerId) & isGameOver == false ? 'all-page-sure' : '']">
         <div class="card text-center" v-bind:class="[playerId == (index % 4) ? 'card-active' : '']">
